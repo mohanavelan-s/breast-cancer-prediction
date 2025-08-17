@@ -3,6 +3,7 @@
 This project is a simple machine learning model built to predict breast cancer using the Logistic Regression algorithm. The dataset used is the popular Breast Cancer Wisconsin Dataset available in scikit-learn.
 
 I created this project to practice my ML skills and get hands-on experience with building and testing models.
+
 **
 🔍 Project Overview**
 
