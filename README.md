@@ -4,8 +4,8 @@ This project is a simple machine learning model built to predict breast cancer u
 
 I created this project to practice my ML skills and get hands-on experience with building and testing models.
 
-**
-🔍 Project Overview**
+
+**🔍 Project Overview**
 
 Algorithm Used: Logistic Regression
 
