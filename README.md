@@ -48,3 +48,9 @@ Deploy the model as a simple web app
 **📜 License**
 
 This project is licensed under the MIT License.
+
+**Example Output**
+
+A screenshot of my output
+<img width="848" height="866" alt="output" src="https://github.com/user-attachments/assets/406a2416-4cc6-42e3-8c79-ce85a53db764" />
+
