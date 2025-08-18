@@ -26,8 +26,8 @@ Evaluate the accuracy on test data.
 **📊 Results**
 
 Achieved ~95% accuracy on the test dataset (results may vary slightly).
-**
-🚀 Why This Project?**
+
+**🚀 Why This Project?**
 
 I wanted to practice:
 
